@@ -16,8 +16,9 @@ logistics expenses, and vendor performance.
 - Monthly procurement trends
 
 ## 📸 Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
-<img width="3508" height="2480" alt="APR-DECPURCHASE" src="https://github.com/user-attachments/assets/aa54943d-5b46-4905-bab9-994060793f05" />
+
+<img width="1424" height="800" alt="SC APR-DEC PURCHASE" src="https://github.com/user-attachments/assets/433f663d-5996-41e9-b838-dec3dccc9ee0" />
+
 
 
 ## 📂 File
